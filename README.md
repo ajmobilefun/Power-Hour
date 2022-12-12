@@ -31,13 +31,6 @@ Select debug build.
 
 Run the app on a physical device.
 
-## Meta
-Andrew Johnson – ajohnson388@gmail.com
-
-Distributed under the Apache 2.0 license. See ``LICENSE`` for more information.
-
-[https://github.com/ajohnson388/](https://github.com/ajohnson388/)
-
 [kotlin-image]:https://img.shields.io/badge/kotlin-1.2-orange.svg
 [kotlin-url]: https://kotlinlang.org/
 [license-image]: https://img.shields.io/badge/License-Apache-blue.svg
